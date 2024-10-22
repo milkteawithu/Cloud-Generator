@@ -1,5 +1,5 @@
 # PGCS
-Coming soon.
+Code is coming soon.
 # Sample
 The figures below show the effect of PGCS in the synthesis of cloud  and cloudy images. You can download the sample data from BaiduNetdisk. Link: https://pan.baidu.com/s/1ZpuB9qxVhHSOIxdMGM4Lhw?pwd=pgcs key：pgcs
 
