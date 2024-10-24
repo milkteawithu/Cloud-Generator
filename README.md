@@ -1,5 +1,8 @@
 # PGCS
-Code is coming soon.
+Xu, L., Li, H., Shen, H., Lei, M., & Jiang, T. (2024). PGCS: Physical Law embedded Generative Cloud Synthesis in Remote Sensing Images.
+Arxiv:https://arxiv.org/abs/2410.16955
+# Code
+Coming soon.
 # Sample
 The figures below show the effect of PGCS in the synthesis of cloud  and cloudy images. You can download the sample data from BaiduNetdisk. Link: https://pan.baidu.com/s/1ZpuB9qxVhHSOIxdMGM4Lhw?pwd=pgcs key：pgcs
 
